@@ -1,0 +1,10 @@
+{
+    "name": "josh",
+    "age": 25,
+    "is_true":false,
+    "skills":["python","django","javascript","flask","node","solidarity"],
+    "address":{
+        "city":"Lagos",
+        "country":"Niger"
+    }
+}
