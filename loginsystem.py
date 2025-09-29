@@ -3,7 +3,7 @@ print("Register")
 # request for user's input
 new_username=input("Enter a new username: ")
 new_password=input("Enter a new password: ")
-print("Registeration successful!! ")
+print("Registration successful!! ")
 print("Please Login")
 # Login step
 max_attempts=3
