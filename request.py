@@ -10,3 +10,5 @@ data={
     "user_id": 1
 }
 response=requests.post("https://dog.ceo/api/breads/image/random",json=data)
+print(response.status_code)
+print(response.json())
